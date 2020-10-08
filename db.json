@@ -1,3 +1,4 @@
+/*
 {
   "name" : "Ojak",
   "age" : 50,
@@ -5,5 +6,17 @@
   "properti" : {
     "berat" : 20,
     "tinggi" : 30
+  }
+}
+*/
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
