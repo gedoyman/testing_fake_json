@@ -1,11 +1,9 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "name" : "Ojak",
+  "age" : 50,
+  "hobi" : ["baca", "tulis", "bobo"],
+  "properti" : {
+    "berat" : 20,
+    "tinggi" : 30
   }
 }
