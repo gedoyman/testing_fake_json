@@ -1,14 +1,3 @@
-/*
-{
-  "name" : "Ojak",
-  "age" : 50,
-  "hobi" : ["baca", "tulis", "bobo"],
-  "properti" : {
-    "berat" : 20,
-    "tinggi" : 30
-  }
-}
-*/
 {
   "posts": [
     {
